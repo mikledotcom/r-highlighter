@@ -1,2 +1,2 @@
 # r-highlighter
-formatter-for-demo-code-in-HTMLpage-based-on-highlight.js
+formatter-for-demo-code-in-HTMLpage-based-on-rainbow.js
